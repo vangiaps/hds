@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyPhongTro", "QuanLyPhongTro\QuanLyPhongTro.csproj", "{95D2EB48-E442-4741-89BC-9C47DDFC1630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{942D17CE-68B1-44DD-9511-050DE5059EF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D2EB48-E442-4741-89BC-9C47DDFC1630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D2EB48-E442-4741-89BC-9C47DDFC1630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D2EB48-E442-4741-89BC-9C47DDFC1630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D2EB48-E442-4741-89BC-9C47DDFC1630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942D17CE-68B1-44DD-9511-050DE5059EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942D17CE-68B1-44DD-9511-050DE5059EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942D17CE-68B1-44DD-9511-050DE5059EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942D17CE-68B1-44DD-9511-050DE5059EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9241B07-B122-4E07-9AAC-3F18E3FF28BC}
+	EndGlobalSection
+EndGlobal
