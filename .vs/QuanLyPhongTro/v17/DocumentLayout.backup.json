@@ -1,46 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\QuanLyPhongTro\\",
+  "WorkspaceRootPath": "E:\\hds\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\quanlyphongtro\\quanlyphongtro\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\quanlyphongtro\\quanlyphongtro\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\hds\\quanlyphongtro\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\quanlyphongtro\\quanlyphongtro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\hds\\quanlyphongtro\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\quanlyphongtro\\quanlyphongtro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\hds\\quanlyphongtro\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\quanlyphongtro\\quanlyphongtro\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\quanlyphongtro\\quanlyphongtro\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\quanlyphongtro\\quanlyphongtro\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\quanlyphongtro\\quanlyphongtro\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|E:\\QuanLyPhongTro\\quanlyphongtro\\frmqlkhachthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\frmqlkhachthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|E:\\QuanLyPhongTro\\quanlyphongtro\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|e:\\hds\\quanlyphongtro\\hoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D2EB48-E442-4741-89BC-9C47DDFC1630}|QuanLyPhongTro\\QuanLyPhongTro.csproj|solutionrelative:quanlyphongtro\\hoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,134 +26,58 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmHoaDon.cs",
-              "DocumentMoniker": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\frmHoaDon.cs",
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "E:\\hds\\QuanLyPhongTro\\frmHoaDon.cs",
               "RelativeDocumentMoniker": "QuanLyPhongTro\\frmHoaDon.cs",
-              "ToolTip": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\frmHoaDon.cs*",
-              "RelativeToolTip": "QuanLyPhongTro\\frmHoaDon.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAADgvxIAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\hds\\QuanLyPhongTro\\frmHoaDon.cs [Design]*",
+              "RelativeToolTip": "QuanLyPhongTro\\frmHoaDon.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T02:44:10.221Z",
+              "WhenOpened": "2025-03-21T06:10:19.278Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hoaDon.cs",
+              "DocumentMoniker": "E:\\hds\\QuanLyPhongTro\\hoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyPhongTro\\hoaDon.cs",
+              "ToolTip": "E:\\hds\\QuanLyPhongTro\\hoaDon.cs",
+              "RelativeToolTip": "QuanLyPhongTro\\hoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:57:16.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hoaDonDAO.cs",
+              "DocumentMoniker": "E:\\hds\\QuanLyPhongTro\\hoaDonDAO.cs",
+              "RelativeDocumentMoniker": "QuanLyPhongTro\\hoaDonDAO.cs",
+              "ToolTip": "E:\\hds\\QuanLyPhongTro\\hoaDonDAO.cs",
+              "RelativeToolTip": "QuanLyPhongTro\\hoaDonDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:39:01.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmHoaDon.cs [Design]",
-              "DocumentMoniker": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\frmHoaDon.cs",
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "E:\\hds\\QuanLyPhongTro\\frmHoaDon.cs",
               "RelativeDocumentMoniker": "QuanLyPhongTro\\frmHoaDon.cs",
-              "ToolTip": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\frmHoaDon.cs [Design]*",
-              "RelativeToolTip": "QuanLyPhongTro\\frmHoaDon.cs [Design]*",
+              "ToolTip": "E:\\hds\\QuanLyPhongTro\\frmHoaDon.cs*",
+              "RelativeToolTip": "QuanLyPhongTro\\frmHoaDon.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDcAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T02:17:45.693Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Database.cs",
-              "DocumentMoniker": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\Database.cs",
-              "RelativeDocumentMoniker": "QuanLyPhongTro\\Database.cs",
-              "ToolTip": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\Database.cs",
-              "RelativeToolTip": "QuanLyPhongTro\\Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T01:34:53.574Z",
+              "WhenOpened": "2025-03-20T02:44:10.221Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "userDAO.cs",
-              "DocumentMoniker": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\userDAO.cs",
-              "RelativeDocumentMoniker": "QuanLyPhongTro\\userDAO.cs",
-              "ToolTip": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\userDAO.cs",
-              "RelativeToolTip": "QuanLyPhongTro\\userDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T01:34:44.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cs",
-              "DocumentMoniker": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\Login.cs",
-              "RelativeDocumentMoniker": "QuanLyPhongTro\\Login.cs",
-              "ToolTip": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\Login.cs",
-              "RelativeToolTip": "QuanLyPhongTro\\Login.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAwwDgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T18:05:55.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmQLKhachThue.cs [Design]",
-              "DocumentMoniker": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\frmQLKhachThue.cs",
-              "RelativeDocumentMoniker": "QuanLyPhongTro\\frmQLKhachThue.cs",
-              "ToolTip": "E:\\WF\\QuanLyPhongTro\\QuanLyPhongTro\\frmQLKhachThue.cs [Design]",
-              "RelativeToolTip": "..\\WF\\QuanLyPhongTro\\QuanLyPhongTro\\frmQLKhachThue.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T17:51:34.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmMain.cs [Design]",
-              "DocumentMoniker": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\frmMain.cs",
-              "RelativeDocumentMoniker": "QuanLyPhongTro\\frmMain.cs",
-              "ToolTip": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\frmMain.cs [Design]",
-              "RelativeToolTip": "QuanLyPhongTro\\frmMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T17:49:51.725Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmMain.cs",
-              "DocumentMoniker": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\frmMain.cs",
-              "RelativeDocumentMoniker": "QuanLyPhongTro\\frmMain.cs",
-              "ToolTip": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\frmMain.cs",
-              "RelativeToolTip": "QuanLyPhongTro\\frmMain.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADgvxAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T03:29:51.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.Designer.cs",
-              "DocumentMoniker": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\Login.Designer.cs",
-              "RelativeDocumentMoniker": "QuanLyPhongTro\\Login.Designer.cs",
-              "ToolTip": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\Login.Designer.cs",
-              "RelativeToolTip": "QuanLyPhongTro\\Login.Designer.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAewE0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T18:34:45.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "E:\\QuanLyPhongTro\\QuanLyPhongTro\\Login.cs",
-              "RelativeDocumentMoniker": "QuanLyPhongTro\\Login.cs",
-              "ToolTip": "E:\\WF\\QuanLyPhongTro\\QuanLyPhongTro\\Login.cs [Design]",
-              "RelativeToolTip": "..\\WF\\QuanLyPhongTro\\QuanLyPhongTro\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T03:20:06.561Z"
             }
           ]
         }
